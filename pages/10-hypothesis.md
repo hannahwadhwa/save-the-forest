@@ -3,6 +3,8 @@ layout: page
 title: Hypothesis
 ---
 
+If we analyze satellite imagery, we can detect potential deforestation and take action
+
 ### Overview
 Source: [Science Buddies](http://www.sciencebuddies.org/science-fair-projects/project_hypothesis.shtml#keyinfo)
 
